@@ -1,4 +1,4 @@
-import WriteObject from "./WriteObject";
+import WriteObject from "./write-object";
 
 const pencil = new WriteObject('Pencil', 0.8);
 const pen = new WriteObject('Pen', 0.5);
